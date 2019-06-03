@@ -1,0 +1,11 @@
+[Protocol]
+exec=transcoin-qt '%u'
+protocol=transcoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

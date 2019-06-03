@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=TransCoin
+Comment=TransCoin P2P Cryptocurrency
+Comment[fr]=TransCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=TransCoin, eşten eşe kriptografik sanal para birimi
+Exec=transcoin-qt %u
+Terminal=false
+Type=Application
+Icon=transcoin128
+MimeType=x-scheme-handler/transcoin;
+Categories=Office;Finance;

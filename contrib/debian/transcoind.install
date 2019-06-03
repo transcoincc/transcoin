@@ -1,0 +1,2 @@
+usr/local/bin/transcoind usr/bin
+usr/local/bin/transcoin-cli usr/bin
